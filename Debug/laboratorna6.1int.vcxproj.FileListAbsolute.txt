@@ -1,0 +1,2 @@
+D:\IT\labs\laboratorna6.1int\Debug\laboratorna6.1int.exe
+D:\IT\labs\laboratorna6.1int\Debug\laboratorna6.1int.pdb
